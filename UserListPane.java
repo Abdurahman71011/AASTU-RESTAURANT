@@ -31,6 +31,7 @@ public class UserListPane extends JPanel implements UserStatusListener {
                     f.setSize(500, 500);
                     f.getContentPane().add(messagePane, BorderLayout.CENTER);
                     f.setVisible(true);
+                    
                 }
             }
         });
