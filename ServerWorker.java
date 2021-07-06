@@ -1,6 +1,4 @@
 //to handle client communication
-
-
 import org.apache.commons.lang3.StringUtils;
 
 import java.io.*;
