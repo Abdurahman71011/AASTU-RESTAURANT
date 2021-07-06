@@ -20,6 +20,7 @@ public class UserListPane extends JPanel implements UserStatusListener {
         add(new JScrollPane(userListUI), BorderLayout.CENTER);
 
         userListUI.addMouseListener(new MouseAdapter() {
+            
             @Override
             public void mouseClicked(MouseEvent e) {
                 if (e.getClickCount() > 1) {
