@@ -48,7 +48,7 @@ public class ChatClient {
             if (client.login("eliyas", "1234")||client.login("husen", "1234")||client.login("abdurehman", "1234")) {
                 System.out.println("Login successful");
 
-                client.msg("endale", "Hello World!");
+                client.msg("default", "Hello World!");
             } else {
                 System.err.println("Login failed");
             }
