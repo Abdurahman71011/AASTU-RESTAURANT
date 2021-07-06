@@ -1,4 +1,3 @@
-package com.muc;
 
 import javax.swing.*;
 import java.awt.*;
