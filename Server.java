@@ -1,7 +1,7 @@
 //to accept connections using accept() method
 //accept creates a socket which is a client socket
 //from client socket we are able to get output stream and input stream
-package com.muc;
+
 
 import java.io.IOException;
 import java.net.ServerSocket;
