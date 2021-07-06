@@ -6,4 +6,4 @@ servers by changing the server name on the ChatClient class to the IP address of
 
 Collaborators On the Project are :> Hussen Esso              TETS 020/10
                                  :> Eliyas Asefa            ETS 0346/11        ADD
-                                 :> Abdurehman Mohammed     ETS 0016/11        ADD 
+                                 :> Abdurahman Mohammed     ETS 0016/11        ADD 
