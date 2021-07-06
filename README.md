@@ -1,4 +1,4 @@
-#Multiple User Chat Program
+# The Multiple User Chat Program
 is a simple chat program that enables multiple users to chat concurrently at the same time.
 It uses Java Concepts like Thread to enable the handling of multiple users concurrently and Socket to handle the connection 
 between the users. it has a simple user interface done using awt and swing. runs on a local server and can be set to run on different
